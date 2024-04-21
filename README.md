@@ -1,5 +1,4 @@
 # HR-analysis-Afame-Technologies
-## Sales Report :
 
 
 - **Project objective:** 
